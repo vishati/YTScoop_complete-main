@@ -87,6 +87,6 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 ## Contact
 
-For any inquiries, please reach out to [hadityakumar](https://www.linkedin.com/in/hadityakumar/).
+For any inquiries, please reach out to [vishmati Peruru](https://www.linkedin.com/in/vishmati-peruru-436800275/).
 
 ---
